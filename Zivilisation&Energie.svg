@@ -7,56 +7,13 @@
    viewBox="0 0 297 210"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="Zivilisation&amp;Energie.svg"
-   inkscape:export-filename="Zivilisation&amp;Energie.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.93223378"
-     inkscape:cx="562.62711"
-     inkscape:cy="352.37942"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1072"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     showgrid="true">
-    <inkscape:grid
-       id="grid39"
-       units="mm"
-       originx="0"
-       originy="0"
-       spacingx="0.26458334"
-       spacingy="0.26458333"
-       empcolor="#3f3fff"
-       empopacity="0.25098039"
-       color="#3f3fff"
-       opacity="0.1254902"
-       empspacing="5"
-       enabled="true"
-       visible="true" />
-  </sodipodi:namedview>
   <defs
      id="defs1">
     <linearGradient
-       id="linearGradient26"
-       inkscape:collect="always">
+       id="linearGradient26">
       <stop
          style="stop-color:#3d5656;stop-opacity:1;"
          offset="0"
@@ -67,8 +24,7 @@
          id="stop26" />
     </linearGradient>
     <linearGradient
-       id="linearGradient24"
-       inkscape:collect="always">
+       id="linearGradient24">
       <stop
          style="stop-color:#0e4f60;stop-opacity:1;"
          offset="0"
@@ -79,8 +35,7 @@
          id="stop24" />
     </linearGradient>
     <linearGradient
-       id="linearGradient19"
-       inkscape:collect="always">
+       id="linearGradient19">
       <stop
          style="stop-color:#527900;stop-opacity:1;"
          offset="0"
@@ -91,8 +46,7 @@
          id="stop20" />
     </linearGradient>
     <linearGradient
-       id="linearGradient17"
-       inkscape:collect="always">
+       id="linearGradient17">
       <stop
          style="stop-color:#b53639;stop-opacity:1;"
          offset="0.02315485"
@@ -103,8 +57,7 @@
          id="stop17" />
     </linearGradient>
     <linearGradient
-       id="linearGradient14"
-       inkscape:collect="always">
+       id="linearGradient14">
       <stop
          style="stop-color:#d12c69;stop-opacity:1;"
          offset="0.02315485"
@@ -114,34 +67,15 @@
          offset="1"
          id="stop15" />
     </linearGradient>
-    <inkscape:path-effect
-       effect="powerstroke"
-       message=""
-       id="path-effect19"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CubicBezierJohan"
-       interpolator_beta="0.2"
-       start_linecap_type="zerowidth"
-       end_linecap_type="zerowidth"
-       offset_points="1,4.9921382"
-       linejoin_type="extrp_arc"
-       miter_limit="4"
-       not_jump="false"
-       sort_points="true" />
     <marker
        style="overflow:visible"
        id="RoundedArrow"
        refX="0"
        refY="0"
        orient="auto-start-reverse"
-       inkscape:stockid="Rounded arrow"
        markerWidth="1"
        markerHeight="1"
        viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
        preserveAspectRatio="xMidYMid"
        markerUnits="userSpaceOnUse">
       <path
@@ -151,54 +85,49 @@
          id="path8" />
     </marker>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient14"
        id="linearGradient15"
        x1="-2.4581778"
        y1="104.33642"
-       x2="299.45817"
+       x2="299.45816"
        y2="104.33642"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.98928219,0,0,0.75550904,1.3703631,1.5756836)" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient17"
        id="linearGradient16"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.98930846,0,0,0.58135585,1.3704159,37.223733)"
        x1="-2.4581778"
        y1="104.33642"
-       x2="299.45817"
+       x2="299.45816"
        y2="104.33642" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient19"
        id="linearGradient20"
        x1="-2.7670474"
        y1="144.54361"
-       x2="297.31138"
+       x2="297.31137"
        y2="144.54361"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.99526307,0,0,0.625494,1.6909759,37.155539)" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient24"
        id="linearGradient21"
        gradientUnits="userSpaceOnUse"
        x1="-2.7670474"
        y1="144.54361"
-       x2="297.31138"
+       x2="297.31137"
        y2="144.54361"
-       gradientTransform="matrix(0.59031936,0,0,0.203231,122.15385,60.658852)" />
+       gradientTransform="matrix(0.55005544,0,0,0.203231,134.2234,60.658852)" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient26"
        id="linearGradient25"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.63857212,0,0,0.22084824,109.04607,131.59417)"
        x1="-2.7670474"
        y1="144.54361"
-       x2="297.31138"
+       x2="297.31137"
        y2="144.54361" />
   </defs>
   <rect
@@ -209,9 +138,7 @@
      x="-0.81414837"
      y="-0.092615217" />
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Ebene 2">
+     id="layer2">
     <rect
        style="fill:url(#linearGradient16);fill-rule:evenodd;stroke:none;stroke-width:0.416436;stroke-miterlimit:1.7;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect14-3"
@@ -235,9 +162,9 @@
          transform="translate(192.9704,31.020026)"><tspan
            x="28.706308"
            y="17.297398"
-           id="tspan10"><tspan
+           id="tspan3"><tspan
              style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-             id="tspan1">Photovoltaik</tspan></tspan></text>
+             id="tspan2">Photovoltaik</tspan></tspan></text>
       <g
          id="Icons-1"
          transform="matrix(0.20072462,0,0,0.20072462,212.15966,49.157103)"
@@ -321,9 +248,9 @@
        transform="translate(-15.642812,23.614802)"><tspan
          x="28.706308"
          y="17.297398"
-         id="tspan14"><tspan
+         id="tspan5"><tspan
            style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-           id="tspan11">Sonne</tspan></tspan></text>
+           id="tspan4">Sonne</tspan></tspan></text>
     <rect
        style="fill:url(#linearGradient20);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.394503;stroke-miterlimit:1.7;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect14-3-7"
@@ -340,28 +267,32 @@
        transform="translate(-11.405348,59.776263)"><tspan
          x="28.706308"
          y="17.297398"
-         id="tspan16"><tspan
+         id="tspan7"><tspan
            style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-           id="tspan15">Biomasse</tspan></tspan></text>
+           id="tspan6">Biomasse</tspan></tspan></text>
     <rect
-       style="fill:url(#linearGradient21);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.173184;stroke-miterlimit:1.7;stroke-dasharray:none;stroke-opacity:0;paint-order:markers fill stroke"
+       style="fill:url(#linearGradient21);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.167174;stroke-miterlimit:1.7;stroke-dasharray:none;stroke-opacity:0;paint-order:markers fill stroke"
        id="rect14-3-7-4"
-       width="176.84694"
+       width="164.78474"
        height="36.126457"
-       x="120.6679"
+       x="132.83865"
        y="71.971382" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 167.32975,80.168749 v 8.56826"
+       id="path6-5-3-9-0-1-9" />
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:83.6461;display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="28.706308"
        y="17.297398"
        id="text7-2-3"
-       transform="translate(119.33028,59.592833)"><tspan
+       transform="translate(131.50119,59.592833)"><tspan
          x="28.706308"
          y="17.297398"
-         id="tspan18"><tspan
+         id="tspan9"><tspan
            style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-           id="tspan17">Wind- &amp; Wasserkraft</tspan></tspan></text>
+           id="tspan8">Wind- &amp; Wasserkraft</tspan></tspan></text>
     <rect
        style="fill:url(#linearGradient25);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-miterlimit:1.7;stroke-dasharray:none;stroke-opacity:0;paint-order:markers fill stroke"
        id="rect14-3-7-4-7"
@@ -378,9 +309,9 @@
        transform="translate(103.9885,131.58232)"><tspan
          x="28.706308"
          y="17.297398"
-         id="tspan20"><tspan
+         id="tspan11"><tspan
            style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-           id="tspan19">Fossile Brennstoffe</tspan></tspan></text>
+           id="tspan10">Fossile Brennstoffe</tspan></tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="M 136.77412,183.31168 H 64.837469"
@@ -390,15 +321,16 @@
        d="M 177.55448,183.31168 H 147.63759"
        id="path10-2-9" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.229062;stroke-miterlimit:1.7;paint-order:markers fill stroke"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.220934;stroke-miterlimit:1.7;paint-order:markers fill stroke"
        id="rect9"
-       width="177.10402"
+       width="164.758"
        height="2.2075746"
-       x="120.6679"
+       x="132.83865"
        y="107.97045" />
     <g
        id="g10"
-       style="stroke-width:0.5;stroke-dasharray:none">
+       style="stroke-width:0.5;stroke-dasharray:none"
+       transform="translate(12.170835)">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 120.62416,150.07803 v 8.56826"
@@ -412,15 +344,13 @@
            d="M 121.75698,84.473271 V 142.4256"
            id="path6-5-3-9-0-7-2" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-           d="m 121.608,165.32539 v 21.34"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.450133;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 121.608,169.36978 v 17.29561"
            id="path6-5-3-9-0-7" />
       </g>
     </g>
   </g>
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
      id="layer1">
     <g
        id="g48"
@@ -434,9 +364,9 @@
          transform="translate(167.85974,-0.97182469)"><tspan
            x="28.706308"
            y="17.297398"
-           id="tspan22"><tspan
+           id="tspan14"><tspan
              style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-             id="tspan21">Geothermie</tspan></tspan></text>
+             id="tspan13">Geothermie</tspan></tspan></text>
       <g
          id="Icons-86"
          transform="matrix(0.160149,0,0,0.160149,170.85563,7.2197162)"
@@ -489,20 +419,20 @@
          transform="translate(195.4854,99.969876)"><tspan
            x="28.706308"
            y="17.297398"
-           id="tspan24"><tspan
+           id="tspan16"><tspan
    style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-   id="tspan23"> Elektrische</tspan><tspan
+   id="tspan15"> Elektrische</tspan><tspan
    y="17.297398"
-   id="tspan27"> </tspan></tspan><tspan
+   id="tspan17"> </tspan></tspan><tspan
            x="28.706308"
            y="22.617062"
-           id="tspan29"><tspan
+           id="tspan19"><tspan
              style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-             id="tspan28">WKA</tspan></tspan></text>
+             id="tspan18">WKA</tspan></tspan></text>
     </g>
     <g
        id="g42"
-       transform="translate(10.583334,-35.502968)">
+       transform="translate(22.225008,-35.502968)">
       <text
          xml:space="preserve"
          style="font-size:4.23333px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:29.4372;display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -512,16 +442,16 @@
          transform="translate(106.2969,107.80126)"><tspan
            x="28.706308"
            y="17.297398"
-           id="tspan31"><tspan
+           id="tspan21"><tspan
    style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-   id="tspan30">Wind- &amp;</tspan><tspan
+   id="tspan20">Wind- &amp;</tspan><tspan
    y="17.297398"
-   id="tspan32"> </tspan></tspan><tspan
+   id="tspan22"> </tspan></tspan><tspan
            x="28.706308"
            y="22.617062"
-           id="tspan34"><tspan
+           id="tspan24"><tspan
              style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-             id="tspan33">Wassermühlen</tspan></tspan></text>
+             id="tspan23">Wassermühlen</tspan></tspan></text>
       <g
          id="Icons-8"
          transform="matrix(0.1159057,0,0,0.1159057,116.56215,114.40648)"
@@ -541,20 +471,9 @@
        transform="translate(-0.04205365,-12.04131)"><tspan
          x="28.706308"
          y="17.297398"
-         id="tspan36"><tspan
+         id="tspan26"><tspan
            style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-           id="tspan35">Atomare Prozesse</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.23333px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="156.34305"
-       y="94.583633"
-       id="text9"><tspan
-         sodipodi:role="line"
-         id="tspan9"
-         style="stroke-width:0.264583px"
-         x="156.34305"
-         y="94.583633" /></text>
+           id="tspan25">Atomare Prozesse</tspan></tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow)"
        d="M 292.02058,183.31168 H 188.7236"
@@ -573,7 +492,7 @@
        id="path6-5-3-9-08-4-3" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 129.10184,178.8583 v 7.80709"
+       d="m 120.63512,178.8583 v 7.80709"
        id="path6-5-3-9-00" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
@@ -586,17 +505,11 @@
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 23.694977,178.75922 c 0,0 0.855907,2.56585 -0.133173,4.27899 -0.98908,1.71313 -0.110177,4.23916 -0.110177,4.23916"
-         id="path19"
-         inkscape:transform-center-y="-0.67772577"
-         sodipodi:nodetypes="czc"
-         inkscape:transform-center-x="-5.4203882" />
+         id="path19" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 34.434952,178.90027 c 0,0 0.855907,2.56585 -0.133173,4.27899 -0.98908,1.71313 -0.110177,4.23916 -0.110177,4.23916"
-         id="path19-7"
-         inkscape:transform-center-y="-0.67772577"
-         sodipodi:nodetypes="czc"
-         inkscape:transform-center-x="-5.4203882" />
+         id="path19-7" />
     </g>
     <g
        id="g45"
@@ -610,19 +523,19 @@
          transform="translate(195.42339,131.46773)"><tspan
            x="28.706308"
            y="17.297398"
-           id="tspan38"><tspan
+           id="tspan28"><tspan
              style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-             id="tspan37"> </tspan></tspan><tspan
+             id="tspan27"> </tspan></tspan><tspan
            x="28.706308"
            y="22.617062"
-           id="tspan40"><tspan
+           id="tspan30"><tspan
              style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-             id="tspan39">Kommerzielle</tspan></tspan><tspan
+             id="tspan29">Kommerzielle</tspan></tspan><tspan
            x="28.706308"
            y="27.936728"
-           id="tspan42"><tspan
+           id="tspan32"><tspan
              style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-             id="tspan41">Kraftwerke</tspan></tspan></text>
+             id="tspan31">Kraftwerke</tspan></tspan></text>
       <g
          id="Icons-4"
          transform="matrix(0.13524838,0,0,0.13524838,217.70051,160.38984)"
@@ -649,16 +562,16 @@
          transform="translate(233.95689,1.9404284)"><tspan
            x="28.706308"
            y="17.297398"
-           id="tspan45"><tspan
+           id="tspan35"><tspan
              style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-             id="tspan43"> Atomkraft</tspan><tspan
+             id="tspan33"> Atomkraft</tspan><tspan
              style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-             id="tspan44">-</tspan></tspan><tspan
+             id="tspan34">-</tspan></tspan><tspan
            x="28.706308"
            y="22.617062"
-           id="tspan47"><tspan
+           id="tspan37"><tspan
              style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-             id="tspan46">werke</tspan></tspan></text>
+             id="tspan36">werke</tspan></tspan></text>
       <g
          id="Icons-27"
          transform="matrix(0.1477089,0,0,0.1477089,238.1108,13.320386)"
@@ -686,11 +599,11 @@
        transform="translate(-0.12026533,27.938868)"><tspan
          x="13.40217"
          y="182.03529"
-         id="tspan49"><tspan
+         id="tspan39"><tspan
    style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan48">erste Primaten</tspan><tspan
+   id="tspan38">erste Primaten</tspan><tspan
    y="182.03529"
-   id="tspan50"> </tspan></tspan></text>
+   id="tspan40"> </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:18.2126;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -700,16 +613,16 @@
        transform="translate(-5.9118301,11.764219)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan52"><tspan
+         id="tspan42"><tspan
    style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan51">66 Mio.</tspan><tspan
+   id="tspan41">66 Mio.</tspan><tspan
    y="178.8694"
-   id="tspan53"> </tspan></tspan><tspan
+   id="tspan43"> </tspan></tspan><tspan
          x="19.387606"
          y="183.30246"
-         id="tspan55"><tspan
+         id="tspan45"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan54">Jahre v.h.</tspan></tspan></text>
+           id="tspan44">Jahre v.h.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:15.3744;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -719,25 +632,25 @@
        transform="translate(24.357306,11.764219)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan57"><tspan
+         id="tspan47"><tspan
    style="font-size:3.52778px"
-   id="tspan56">1.7 Mio.</tspan><tspan
+   id="tspan46">1.7 Mio.</tspan><tspan
    y="178.8694"
-   id="tspan58"> </tspan></tspan><tspan
+   id="tspan48"> </tspan></tspan><tspan
          x="19.387606"
          y="184.16105"
-         id="tspan60"><tspan
-           style="font-size:3.52778px"
-           id="tspan59">Jahre</tspan><tspan
-           y="184.16105"
-           id="tspan61"> </tspan></tspan><tspan
+         id="tspan50"><tspan
+   style="font-size:3.52778px"
+   id="tspan49">Jahre</tspan><tspan
+   y="184.16105"
+   id="tspan51"> </tspan></tspan><tspan
          x="19.387606"
          y="189.48071"
-         id="tspan64"><tspan
+         id="tspan54"><tspan
            style="font-size:3.52778px"
-           id="tspan62">v.h</tspan><tspan
+           id="tspan52">v.h</tspan><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan63">.</tspan></tspan></text>
+           id="tspan53">.</tspan></tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 43.641648,115.08951 v 71.57588"
@@ -767,9 +680,9 @@
          transform="translate(36.589663,-61.681976)"><tspan
            x="13.40217"
            y="182.03529"
-           id="tspan65">Feuer<tspan
+           id="tspan55">Feuer<tspan
    y="182.03529"
-   id="tspan66"> </tspan></tspan></text>
+   id="tspan56"> </tspan></tspan></text>
     </g>
     <g
        id="g41"
@@ -789,23 +702,11 @@
          x="23.359419"
          y="116.34754"
          id="text13"><tspan
-           sodipodi:role="line"
            id="tspan12"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
            x="23.359419"
            y="116.34754">Pflanzen</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:4.23333px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="76.707344"
-       y="126.78153"
-       id="text14"><tspan
-         sodipodi:role="line"
-         id="tspan13"
-         style="stroke-width:0.264583px"
-         x="76.707344"
-         y="126.78153" /></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 72.235007,115.0895 v 71.57589"
@@ -819,16 +720,16 @@
        transform="translate(52.929133,11.795225)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan68"><tspan
+         id="tspan58"><tspan
    style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan67">10.0000</tspan><tspan
+   id="tspan57">10.0000</tspan><tspan
    y="178.8694"
-   id="tspan69"> </tspan></tspan><tspan
+   id="tspan59"> </tspan></tspan><tspan
          x="19.387606"
          y="183.30246"
-         id="tspan71"><tspan
+         id="tspan61"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan70">Jahre v.Chr.</tspan></tspan></text>
+           id="tspan60">Jahre v.Chr.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:41.0523;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -838,11 +739,11 @@
        transform="translate(58.677634,27.933701)"><tspan
          x="13.40217"
          y="182.03529"
-         id="tspan73"><tspan
+         id="tspan63"><tspan
    style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan72">Landwirtschaft</tspan><tspan
+   id="tspan62">Landwirtschaft</tspan><tspan
    y="182.03529"
-   id="tspan74"> </tspan></tspan></text>
+   id="tspan64"> </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:27.8032;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -852,11 +753,11 @@
        transform="translate(30.084276,27.938868)"><tspan
          x="13.40217"
          y="182.03529"
-         id="tspan76"><tspan
+         id="tspan66"><tspan
    style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan75">Kochen</tspan><tspan
+   id="tspan65">Kochen</tspan><tspan
    y="182.03529"
-   id="tspan77"> </tspan></tspan></text>
+   id="tspan67"> </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:22.8107;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -866,21 +767,21 @@
        transform="translate(147.84731,11.795225)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan80"><tspan
+         id="tspan70"><tspan
    style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan78">200 </tspan><tspan
+   id="tspan68">200 </tspan><tspan
    style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan79">Jahre</tspan><tspan
+   id="tspan69">Jahre</tspan><tspan
    y="178.8694"
-   id="tspan81"> </tspan></tspan><tspan
+   id="tspan71"> </tspan></tspan><tspan
          x="19.387606"
          y="183.30246"
-         id="tspan83"><tspan
+         id="tspan73"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan82">v.Chr.</tspan></tspan></text>
+           id="tspan72">v.Chr.</tspan></tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 167.32975,79.863648 V 186.66539"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.459357;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 167.32975,96.5208 v 90.14459"
        id="path6-5-3-9" />
     <text
        xml:space="preserve"
@@ -891,16 +792,16 @@
        transform="translate(153.9274,22.653491)"><tspan
          x="13.40217"
          y="182.03529"
-         id="tspan85"><tspan
+         id="tspan75"><tspan
    style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan84"> Massentaugliche</tspan><tspan
+   id="tspan74"> Massentaugliche</tspan><tspan
    y="182.03529"
-   id="tspan86"> </tspan></tspan><tspan
+   id="tspan76"> </tspan></tspan><tspan
          x="13.40217"
          y="186.46835"
-         id="tspan88"><tspan
+         id="tspan78"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan87">Hygiene (Thermen)</tspan></tspan></text>
+           id="tspan77">Hygiene (Thermen)</tspan></tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 107.40595,160.21669 v 26.4487"
@@ -914,47 +815,47 @@
        transform="translate(87.906289,11.795225)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan90"><tspan
-           style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan89">4000</tspan><tspan
-           y="178.8694"
-           id="tspan91"> </tspan></tspan><tspan
+         id="tspan80"><tspan
+   style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
+   id="tspan79">4000</tspan><tspan
+   y="178.8694"
+   id="tspan81"> </tspan></tspan><tspan
          x="19.387606"
          y="183.30246"
-         id="tspan93"><tspan
+         id="tspan83"><tspan
    style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan92">Jahre</tspan><tspan
+   id="tspan82">Jahre</tspan><tspan
    y="183.30246"
-   id="tspan94"> </tspan></tspan><tspan
+   id="tspan84"> </tspan></tspan><tspan
          x="19.387606"
          y="187.73552"
-         id="tspan96"><tspan
+         id="tspan86"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan95">v.Chr.</tspan></tspan></text>
+           id="tspan85">v.Chr.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:16.0881;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="19.387606"
        y="178.8694"
        id="text12-9-6-3-6-7"
-       transform="translate(101.21062,11.835705)"><tspan
+       transform="translate(114.19523,11.795225)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan97">1700<tspan
+         id="tspan87">1700<tspan
    y="178.8694"
-   id="tspan98"> </tspan></tspan><tspan
+   id="tspan88"> </tspan></tspan><tspan
          x="19.387606"
          y="183.30246"
-         id="tspan100"><tspan
+         id="tspan90"><tspan
    style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan99">Jahre</tspan><tspan
+   id="tspan89">Jahre</tspan><tspan
    y="183.30246"
-   id="tspan101"> </tspan></tspan><tspan
+   id="tspan91"> </tspan></tspan><tspan
          x="19.387606"
          y="187.73552"
-         id="tspan143"><tspan
+         id="tspan93"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan102">v.Chr.</tspan></tspan></text>
+           id="tspan92">v.Chr.</tspan></tspan></text>
     <g
        id="g39"
        transform="translate(-3.804511,-4.3752418)">
@@ -993,11 +894,11 @@
          transform="translate(72.64995,-59.597157)"><tspan
            x="13.40217"
            y="182.03529"
-           id="tspan148"><tspan
+           id="tspan95"><tspan
    style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#ffffff;stroke:none"
-   id="tspan145">Nutztiere</tspan><tspan
+   id="tspan94">Nutztiere</tspan><tspan
    y="182.03529"
-   id="tspan149"> </tspan></tspan></text>
+   id="tspan96"> </tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1005,47 +906,47 @@
        x="19.387606"
        y="178.8694"
        id="text12-9-6-3-6-1"
-       transform="translate(111.73608,11.795225)"><tspan
+       transform="translate(101.58964,11.795225)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan152"><tspan
-           style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan151">2200</tspan><tspan
-           y="178.8694"
-           id="tspan164"> </tspan></tspan><tspan
+         id="tspan98"><tspan
+   style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
+   id="tspan97">2200</tspan><tspan
+   y="178.8694"
+   id="tspan99"> </tspan></tspan><tspan
          x="19.387606"
          y="183.30246"
-         id="tspan166"><tspan
+         id="tspan101"><tspan
    style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan165">Jahre</tspan><tspan
+   id="tspan100">Jahre</tspan><tspan
    y="183.30246"
-   id="tspan167"> </tspan></tspan><tspan
+   id="tspan102"> </tspan></tspan><tspan
          x="19.387606"
          y="187.73552"
-         id="tspan169"><tspan
+         id="tspan104"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan168">v.Chr.</tspan></tspan></text>
+           id="tspan103">v.Chr.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:28.2082;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="13.40217"
        y="182.03529"
        id="text11-1-9-0"
-       transform="translate(115.54446,22.342996)"><tspan
+       transform="translate(107.4458,22.342996)"><tspan
          x="13.40217"
          y="182.03529"
-         id="tspan171"><tspan
+         id="tspan106"><tspan
    style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan170">Beginn</tspan><tspan
+   id="tspan105">Beginn</tspan><tspan
    y="182.03529"
-   id="tspan172"> </tspan></tspan><tspan
+   id="tspan107"> </tspan></tspan><tspan
          x="13.40217"
          y="187.32695"
-         id="tspan174"><tspan
+         id="tspan109"><tspan
    style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan173">Bronzezeitalter</tspan><tspan
+   id="tspan108">Bronzezeitalter</tspan><tspan
    y="187.32695"
-   id="tspan175"> </tspan></tspan></text>
+   id="tspan110"> </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:24.0149;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1055,11 +956,11 @@
        transform="translate(176.047,11.795225)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan177"><tspan
+         id="tspan112"><tspan
    style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan176">1800</tspan><tspan
+   id="tspan111">1800</tspan><tspan
    y="178.8694"
-   id="tspan178"> </tspan></tspan></text>
+   id="tspan113"> </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:24.8176;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1069,9 +970,9 @@
        transform="translate(190.98426,11.7958)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan180"><tspan
+         id="tspan115"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan179">1882/83</tspan></tspan></text>
+           id="tspan114">1882/83</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:24.8176;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1081,9 +982,9 @@
        transform="translate(206.57752,11.126522)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan182"><tspan
+         id="tspan117"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan181">1916</tspan></tspan></text>
+           id="tspan116">1916</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:24.8176;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1093,20 +994,9 @@
        transform="translate(234.56618,11.081864)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan184"><tspan
+         id="tspan119"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan183">1969</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.23333px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="275.44391"
-       y="191.43422"
-       id="text26"><tspan
-         sodipodi:role="line"
-         id="tspan26"
-         style="stroke-width:0.264583px"
-         x="275.44391"
-         y="191.43422" /></text>
+           id="tspan118">1969</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:24.8176;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1116,14 +1006,13 @@
        transform="translate(219.43902,11.145755)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan186"><tspan
+         id="tspan121"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan185">1954</tspan></tspan></text>
+           id="tspan120">1954</tspan></tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="M 238.8181,9.4771447 V 186.66539"
-       id="path6-5-3-9-08-4-3-8"
-       sodipodi:nodetypes="cc" />
+       id="path6-5-3-9-08-4-3-8" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 253.92804,178.8583 v 7.80709"
@@ -1134,17 +1023,11 @@
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 23.694977,178.75922 c 0,0 0.855907,2.56585 -0.133173,4.27899 -0.98908,1.71313 -0.110177,4.23916 -0.110177,4.23916"
-         id="path19-2"
-         inkscape:transform-center-y="-0.67772577"
-         sodipodi:nodetypes="czc"
-         inkscape:transform-center-x="-5.4203882" />
+         id="path19-2" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 34.434952,178.90027 c 0,0 0.855907,2.56585 -0.133173,4.27899 -0.98908,1.71313 -0.110177,4.23916 -0.110177,4.23916"
-         id="path19-7-2"
-         inkscape:transform-center-y="-0.67772577"
-         sodipodi:nodetypes="czc"
-         inkscape:transform-center-x="-5.4203882" />
+         id="path19-7-2" />
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
@@ -1157,17 +1040,11 @@
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 23.694977,178.75922 c 0,0 0.855907,2.56585 -0.133173,4.27899 -0.98908,1.71313 -0.110177,4.23916 -0.110177,4.23916"
-         id="path19-2-8"
-         inkscape:transform-center-y="-0.67772577"
-         sodipodi:nodetypes="czc"
-         inkscape:transform-center-x="-5.4203882" />
+         id="path19-2-8" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 34.434952,178.90027 c 0,0 0.855907,2.56585 -0.133173,4.27899 -0.98908,1.71313 -0.110177,4.23916 -0.110177,4.23916"
-         id="path19-7-2-2"
-         inkscape:transform-center-y="-0.67772577"
-         sodipodi:nodetypes="czc"
-         inkscape:transform-center-x="-5.4203882" />
+         id="path19-7-2-2" />
     </g>
     <g
        id="g27-7-1-6"
@@ -1176,17 +1053,11 @@
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 23.694977,178.75922 c 0,0 0.855907,2.56585 -0.133173,4.27899 -0.98908,1.71313 -0.110177,4.23916 -0.110177,4.23916"
-         id="path19-2-8-2"
-         inkscape:transform-center-y="-0.67772577"
-         sodipodi:nodetypes="czc"
-         inkscape:transform-center-x="-5.4203882" />
+         id="path19-2-8-2" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 34.434952,178.90027 c 0,0 0.855907,2.56585 -0.133173,4.27899 -0.98908,1.71313 -0.110177,4.23916 -0.110177,4.23916"
-         id="path19-7-2-2-9"
-         inkscape:transform-center-y="-0.67772577"
-         sodipodi:nodetypes="czc"
-         inkscape:transform-center-x="-5.4203882" />
+         id="path19-7-2-2-9" />
     </g>
     <g
        id="g44"
@@ -1200,16 +1071,16 @@
          transform="translate(110.33389,145.64003)"><tspan
            x="28.706308"
            y="17.297398"
-           id="tspan188"><tspan
+           id="tspan123"><tspan
    style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-   id="tspan187">Steinkohle- &amp; Erdöl</tspan><tspan
+   id="tspan122">Steinkohle- &amp; Erdöl</tspan><tspan
    y="17.297398"
-   id="tspan189"> </tspan></tspan><tspan
+   id="tspan124"> </tspan></tspan><tspan
            x="28.706308"
            y="22.617062"
-           id="tspan191"><tspan
+           id="tspan126"><tspan
              style="font-weight:bold;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#ffffff;stroke:none"
-             id="tspan190">Nutzung</tspan></tspan></text>
+             id="tspan125">Nutzung</tspan></tspan></text>
       <g
          id="g43"
          transform="translate(-2.6458334,-5.0553256)">
@@ -1299,9 +1170,9 @@
        transform="translate(249.67613,11.176014)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan193"><tspan
+         id="tspan128"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan192">1999</tspan></tspan></text>
+           id="tspan127">1999</tspan></tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 284.14793,178.8583 v 7.80709"
@@ -1315,9 +1186,9 @@
        transform="translate(264.76023,11.118313)"><tspan
          x="19.387606"
          y="178.8694"
-         id="tspan195"><tspan
+         id="tspan130"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan194">2022</tspan></tspan></text>
+           id="tspan129">2022</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.9835;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1327,18 +1198,18 @@
        transform="translate(212.64039,22.514908)"><tspan
          x="13.40217"
          y="182.03529"
-         id="tspan197"><tspan
+         id="tspan132"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan196"> </tspan></tspan><tspan
+           id="tspan131"> </tspan></tspan><tspan
          x="13.40217"
          y="100003.86"
-         id="tspan200"><tspan
+         id="tspan135"><tspan
            dx="0 2.3667822 2.1015096 0.96807241 2.1187353 1.3900967 0.96807289 2.0877285 0.96807289 1.3900967 2.1187344 1.3900986 1.8379593"
            style="font-size:3.52778px"
-           id="tspan198">Relativitäts-</tspan><tspan
+           id="tspan133">Relativitäts-</tspan><tspan
            dx="1.6019707 1.3900967 2.2324238 2.1015091 2.1411285 1.5055084 0.96807098"
            style="font-size:3.52778px"
-           id="tspan199">theorie</tspan></tspan></text>
+           id="tspan134">theorie</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:21.7745;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1348,26 +1219,26 @@
        transform="translate(240.42762,21.946122)"><tspan
          x="13.40217"
          y="182.03529"
-         id="tspan205"><tspan
-           style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan201"> </tspan><tspan
-           style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan202">Internet</tspan><tspan
-           style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan203"> </tspan><tspan
-           style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan204">&amp;</tspan><tspan
-           y="182.03529"
-           id="tspan206"> </tspan></tspan><tspan
+         id="tspan140"><tspan
+   style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
+   id="tspan136"> </tspan><tspan
+   style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
+   id="tspan137">Internet</tspan><tspan
+   style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
+   id="tspan138"> </tspan><tspan
+   style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
+   id="tspan139">&amp;</tspan><tspan
+   y="182.03529"
+   id="tspan141"> </tspan></tspan><tspan
          x="13.40217"
          y="187.32696"
-         id="tspan210"><tspan
+         id="tspan145"><tspan
            style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan207">Apollo</tspan><tspan
+           id="tspan142">Apollo</tspan><tspan
            style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan208"> </tspan><tspan
+           id="tspan143"> </tspan><tspan
            style="font-size:3.52778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan209">11</tspan></tspan></text>
+           id="tspan144">11</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:23.3355;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1377,16 +1248,16 @@
        transform="translate(255.76742,21.963347)"><tspan
          x="13.40217"
          y="182.03529"
-         id="tspan213"><tspan
+         id="tspan148"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan211"> </tspan><tspan
+           id="tspan146"> </tspan><tspan
            style="font-size:3.52778px"
-           id="tspan212">Smart-</tspan></tspan><tspan
+           id="tspan147">Smart-</tspan></tspan><tspan
          x="13.40217"
          y="187.32696"
-         id="tspan215"><tspan
+         id="tspan150"><tspan
            style="font-size:3.52778px"
-           id="tspan214">phone</tspan></tspan></text>
+           id="tspan149">phone</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:15.0069;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1396,18 +1267,18 @@
        transform="translate(270.74559,22.623084)"><tspan
          x="13.40217"
          y="182.03529"
-         id="tspan218"><tspan
+         id="tspan153"><tspan
    style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-   id="tspan216"> </tspan><tspan
+   id="tspan151"> </tspan><tspan
    style="font-size:3.52778px"
-   id="tspan217">Chat</tspan><tspan
+   id="tspan152">Chat</tspan><tspan
    y="182.03529"
-   id="tspan219"> </tspan></tspan><tspan
+   id="tspan154"> </tspan></tspan><tspan
          x="13.40217"
          y="187.32696"
-         id="tspan221"><tspan
+         id="tspan156"><tspan
            style="font-size:3.52778px"
-           id="tspan220">GPT</tspan></tspan></text>
+           id="tspan155">GPT</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:26.8832;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1417,14 +1288,14 @@
        transform="translate(212.69206,23.505808)"><tspan
          x="13.40217"
          y="182.03529"
-         id="tspan223"><tspan
+         id="tspan158"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan222"> Relativitäts-</tspan></tspan><tspan
+           id="tspan157"> Relativitäts-</tspan></tspan><tspan
          x="13.40217"
          y="186.46835"
-         id="tspan225"><tspan
+         id="tspan160"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan224">theorie</tspan></tspan></text>
+           id="tspan159">theorie</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.6392;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1434,13 +1305,13 @@
        transform="translate(182.23906,22.804731)"><tspan
          x="13.40217"
          y="182.03529"
-         id="tspan227"><tspan
+         id="tspan162"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan226"> Industrie-</tspan></tspan><tspan
+           id="tspan161"> Industrie-</tspan></tspan><tspan
          x="13.40217"
          y="186.46835"
-         id="tspan229"><tspan
+         id="tspan164"><tspan
            style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift"
-           id="tspan228">alisierung</tspan></tspan></text>
+           id="tspan163">alisierung</tspan></tspan></text>
   </g>
 </svg>
