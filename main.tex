@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass{scrartcl}
 
 \usepackage{Packages_Makros}
 
@@ -15,14 +15,18 @@
 \myMakeTitlepage
 
 \section{Energienutzung in der Zivilisationsgeschichte}
-    \begin{figure}[h]
+    \begin{figure}[H]
     \centering
     \includegraphics[width=1\linewidth]{Abbildungen/Zivilisation_Energie.pdf}
-    \caption[Genutzte Energiequellen in der Zivilisationsgeschichte]{Die Abbildung zeigt unterschiedliche genutzte Energiequellen in der Zivilisationsgeschichte der Menschheit sowie Zusammenhänge mit technischem und gesellschaftlichem Fortschritt. Aus dem hierarchischen Aufbau wird deutlich, dass mit wachsendem Fortschritt immer mehr und höherwertige Quellen erschlossen wurden.}
+    \caption[Genutzte Energiequellen in der Zivilisationsgeschichte]{Die Abbildung 
+    zeigt unterschiedliche genutzte Energiequellen in der Zivilisationsgeschichte 
+    der Menschheit sowie Zusammenhänge mit technischem und gesellschaftlichem Fortschritt. 
+    Aus dem hierarchischen Aufbau wird deutlich, dass mit wachsendem Fortschritt immer mehr 
+    und höherwertige Quellen erschlossen wurden. Quellen(s. Tabelle \ref{tab:Energiegeschichte})}
     \label{fig:Energienutzung}
 \end{figure}
 
-\begin{table}[]
+\begin{table}[H]
     \centering
     \begin{tabular}{c|p{10 cm}}
          Ereignis &  Quelle  \\
@@ -60,7 +64,34 @@
         Chat GPT & \url{https://openai.com/de-DE/index/chatgpt/}
     \end{tabular}
     \caption{Quellen zu \ref{fig:Energienutzung}}
-    \label{tab:placeholder}
+    \label{tab:Energiegeschichte}
+\end{table}
+
+\section{Kumulativer Energie Aufwand}
+Die Berechnung des kumulativen Energie Aufwands wird dazu verwendet um
+einen vergleichbaren Rahmen zu schaffen um Produkte hinsichtlich ihrer Energie-
+und Ressourceneffizienz zu bewerten. Dabei werden energietechnische Daten in
+einem einheitlichen Rahmen vergleichbar gemacht. (Quellen siehe \ref{tab:KEA})
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Abbildungen/KEA.png}
+    \caption{Zusammensetzung des Kumulativen Energiebedarfs nach VDI 4600:2012-01. 
+    Anhand der einheitlichen Primärenergetischen Betrachtung lassen sich Produkte 
+    hinsichtlich ökologischer und energetischer Sicht bewerten und vergleichen. 
+    Der Bilanzraum liegt um den gesamten Produktlebenszyklus bzw. um die einzelnen
+    Teilschritten Produktion, Nutzung, Entsorgung. Quellen(s. Tabelle \ref{tab:KEA})}
+    \label{fig:KEA}
+\end{figure}
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{c|c}
+        \textbf{Quelle} & textbf{Link} \\ \hline
+        VDI 4600 & \url{www.dinmedia.de/de/technische-regel/vdi-4600/143521324}
+    \end{tabular}
+    \caption{Quellen zu \ref{fig:KEA}}
+    \label{tab:KEA}
 \end{table}
 
 \end{document}
