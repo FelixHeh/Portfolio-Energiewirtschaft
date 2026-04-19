@@ -1,0 +1,95 @@
+%Packages
+\usepackage{graphicx} % Required for inserting images
+\usepackage[utf8]{inputenc}	%Ermöglicht die Eingabe von Umlauten.
+\usepackage[T1]{fontenc}	%Ermöglicht die Ausgabe von Umlauten.
+\usepackage[ngerman]{babel}	%Silbentrennung nach Rechtschreibreform.
+\usepackage{amsmath}		%Verbesserter Formelsatz.
+\usepackage{url}			%Formatierung von Internet-Adressen.
+\usepackage{makeidx}		%Erstellen eines Index.
+\usepackage{graphicx}		%Einbindung von Grafiken.
+\usepackage{tikz}			%Zeichnungen direkt in LaTeX erstellen.
+\usepackage{ifthen}			%Bedingte Ausführung.
+\usepackage{hyperref}		%Unterstützung von Hyperlinks im PDF.
+\usepackage{textcomp}		%Für aufrechte, griechische Buchstaben wie \textmu.
+\usepackage{scrlayer-scrpage}	%Für Kopfzeilen.
+\usepackage{blindtext}		%Kann weg.
+\pagestyle{scrheadings}		%Kopfzeilen einschalten.
+\setkomafont{pagehead}{\normalfont\normalcolor}
+
+%alles Löschen
+\clearpairofpagestyles
+
+% Kopfzeile
+\ihead{\textbf{\getMyTitle}}
+\ohead{\textbf{\getMyAuthor}}
+\chead{\includegraphics[height=1cm]{Abbildungen/EGU_Logo.pdf}}
+
+\rofoot{\pagemark}
+
+%Makros
+% Getter mit Default-Werten
+\newcommand{\getMyTitle}{Titel}
+\newcommand{\getMySubtitle}{Untertitel}
+\newcommand{\getMyAuthor}{Autor}
+\newcommand{\getMyMatrNo}{Matrikelnummer}
+\newcommand{\getMyEmail}{autor@fh-muenster.de}
+\newcommand{\getMyDepartment}{Fachbereich}
+\newcommand{\getMyFirstExaminer}{Titel Vorname Nachname}
+\newcommand{\getMySecondExaminer}{}
+\newcommand{\getMyDate}{\today}
+
+% Setter: öffentliche Schnittstelle
+\newcommand{\MyTitle}[1]{\renewcommand{\getMyTitle}{#1}}
+\newcommand{\MySubtitle}[1]{\renewcommand{\getMySubtitle}{#1}}
+\newcommand{\MyAuthor}[1]{\renewcommand{\getMyAuthor}{#1}}
+\newcommand{\MyMatrNo}[1]{\renewcommand{\getMyMatrNo}{#1}}
+\newcommand{\MyEmail}[1]{\renewcommand{\getMyEmail}{#1}}
+\newcommand{\MyDepartment}[1]{\renewcommand{\getMyDepartment}{#1}}
+\newcommand{\MyFirstExaminer}[1]{\renewcommand{\getMyFirstExaminer}{#1}}
+\newcommand{\MySecondExaminer}[1]{\renewcommand{\getMySecondExaminer}{#1}}
+\newcommand{\MyDate}[1]{\renewcommand{\getMyDate}{#1}}
+
+%Design Deckblatt 
+\newcommand{\myMakeTitlepage}{%
+\begin{titlepage}
+  \thispagestyle{empty}
+  \fontfamily{qtm}\selectfont
+        
+      \begin{tikzpicture}[remember picture,overlay]
+        % FH Logo einfügen
+        \node[anchor=north west] at ([xshift=3cm,yshift=-2cm]current page.north west) {%
+            \includegraphics[width=6cm]{Abbildungen/FH_Logo.pdf}%
+        };
+    
+        % Titel 7cm unterhalb der Seite, 3cm vom linken Rand
+        \node[anchor=north west] at ([xshift=3cm,yshift=-7cm]current page.north west) {%
+          \parbox{15cm}{%
+            \raggedright
+            {\Huge\bfseries \getMyTitle\par}
+            \vspace{0.5cm}
+            {\huge \getMySubtitle\par}
+          }%
+        };
+    
+        % Autor unten rechts
+        \node[anchor=south west] at ([xshift=3cm,yshift=2cm]current page.south west) {%
+          \parbox{7cm}{%
+            \raggedright
+            \textbf{Autor:} \getMyAuthor\par
+            \textbf{Matrikelnummer:} \getMyMatrNo\par
+            \textbf{E-Mail:} \getMyEmail\par
+            \vspace{0.5cm}
+            \textbf{Fachbereich:} \getMyDepartment\par
+            \textbf{Erstprüfer:} \getMyFirstExaminer\par
+           % Nur ausgeben, wenn nicht leer:
+            \ifthenelse{\equal{\getMySecondExaminer}{}}%
+              {}% dann: nichts
+              {\textbf{Zweitprüfer:} \getMySecondExaminer\par}% sonst: Zeile ausgeben
+            \textbf{Datum:} \getMyDate\par
+          }%
+        };
+      \end{tikzpicture}
+  
+\end{titlepage}%
+}
+
