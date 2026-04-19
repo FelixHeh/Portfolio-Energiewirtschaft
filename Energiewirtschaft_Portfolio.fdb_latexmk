@@ -1,11 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1776629874.4454 "/home/felixhehemann/Obsidian/Uni/Projekte/Portfolio-Energiewirtschaft/main.tex" "main.pdf" "main" 1776629876.06532 0
+["pdflatex"] 1776635256.66619 "/home/felixhehemann/Obsidian/Uni/Projekte/Portfolio-Energiewirtschaft/Energiewirtschaft_Portfolio.tex" "Energiewirtschaft_Portfolio.pdf" "Energiewirtschaft_Portfolio" 1776635258.26889 0
   "/etc/texmf/web2c/texmf.cnf" 1776002526.18479 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/felixhehemann/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk" 1776628572.85751 28952 1ec0fc9d829a18798b7d4fdf9d3264c2 ""
   "/home/felixhehemann/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk" 1776628572.3375 26208 ed130780f5ff66e30aa122a9ba783c30 ""
   "/home/felixhehemann/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk" 1776628571.8535 34652 9a1aa1a16b2415b17d98d21317cf75aa ""
   "/home/felixhehemann/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk" 1776628573.35751 21952 206bd88e5f6d4034e5e44dafbc32052b ""
-  "/home/felixhehemann/Obsidian/Uni/Projekte/Portfolio-Energiewirtschaft/main.tex" 1776629872.5242 4435 106fe8821117a1fe972a4c70d4bc2133 ""
+  "/home/felixhehemann/Obsidian/Uni/Projekte/Portfolio-Energiewirtschaft/Energiewirtschaft_Portfolio.tex" 1776629872.5242 4435 106fe8821117a1fe972a4c70d4bc2133 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm" 1136768653 3584 21b378cca2e40816b0e6d74a4dc98f04 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1136768653 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
@@ -178,13 +178,13 @@
   "Abbildungen/FH_Logo.pdf" 1775991972 2872 acfa21734213d03723e7cadb391ad94e ""
   "Abbildungen/KEA.png" 1775997667.93316 124513 a074c6954b46b9ac25b502bc238d6b09 ""
   "Abbildungen/Zivilisation_Energie.pdf" 1775991972 45860 0efe3ddba802eca27809ccc1f61e6d5e ""
+  "Energiewirtschaft_Portfolio.aux" 1776635258.17036 3165 c5bc1b41cd3832cfb79a82604d9afde2 "pdflatex"
+  "Energiewirtschaft_Portfolio.out" 1776635258.03136 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Energiewirtschaft_Portfolio.tex" 1776629872.5242 4435 106fe8821117a1fe972a4c70d4bc2133 ""
   "Packages_Makros.sty" 1776629731.60466 3562 fd235cf6d1d983d4634ca3f0bae90dcd ""
-  "main.aux" 1776629875.96821 3165 c5bc1b41cd3832cfb79a82604d9afde2 "pdflatex"
-  "main.out" 1776629875.82384 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1776629872.5242 4435 106fe8821117a1fe972a4c70d4bc2133 ""
   (generated)
-  "main.aux"
-  "main.log"
-  "main.out"
-  "main.pdf"
+  "Energiewirtschaft_Portfolio.aux"
+  "Energiewirtschaft_Portfolio.log"
+  "Energiewirtschaft_Portfolio.out"
+  "Energiewirtschaft_Portfolio.pdf"
   (rewritten before read)
