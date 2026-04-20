@@ -94,4 +94,32 @@ einem einheitlichen Rahmen vergleichbar gemacht. (Quellen siehe \ref{tab:KEA})
     \label{tab:KEA}
 \end{table}
 
+\section{Carnot Batterie}
+
+In der Literatur werden Carnot-Batterien als eine Zukunftstechnologie der 
+Energiespeicherung angepriesen, mit welcher es möglich sein soll Wirkungsgrade von über 
+\SI{100}{\percent} erreichen. Abbildung \ref{fig:CarnotBatterie} zeigt einen Aufbau, mit dem eine 
+Power to Power Effizienz von 1,06 erreicht werden soll. Wie ist das möglich, wenn 
+doch nach dem zweiten Hauptsatz der Thermodynamik, der maximal arbeitsfähige Anteil 
+thermischer Energie durch den Carnot Wirkungsgrad begrenzt ist? Wird hier die Thermodynamik 
+ausgetrickst? Die Antwort ist, nein. Schaut man sich das System genauer an, sieht man, dass 
+die Systemgrenze offen ist. Die Carnot Batterie aggiert mit Ihrer Umwelt und es wird neben Strom 
+auch Abwärme in das System mit eingespeißt. Mit Hilfe einer Stromgetriebenen Wärmepumpe 
+auf der einen Seite wird das Temperaturniveau der Abwärme effizient angehoben, dann in einem 
+Wärmespeicher zwischengespeichert und bei Bedarf von einer Wärmekraftmaschine in 
+Strom gewandelt. Alle Prozesse sind Verlustbehaftet. Durch das stetige hinzufügen von 
+Abwärme werden diese Verluste jedoch scheinbar kompensiert. Schaut man sich dann 
+nur die elektirschen Anteile des Systems an wirkt es so, als hätte das System eine 
+positive Bilanz. Werden alle Energieanteile berücksichtigt muss man jedoch feststellen, 
+dass das System zwar die Abwärme effizient nutzbar macht, aber weiterhin Verlusten 
+nach dem Carnot Wirkungsgrad unterliegt. 
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Abbildungen/CarnotBatterie.jpg}
+    \caption{Aufbau einer Carnot Batterie nach \url https://doi.org/10.1016/j.fmre.2026.01.015}
+    \label{fig:CarnotBatterie}
+\end{figure}
+
+
 \end{document}
